@@ -1,6 +1,6 @@
 
 
-### Olá sou Felipe Freitas ✋
+### Olá, sou Felipe Freitas ✋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesansi&show_icons=true&theme=transparent)
 
 ## Estudando essas líguagens
