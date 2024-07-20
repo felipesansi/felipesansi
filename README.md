@@ -20,12 +20,15 @@
 
 ## Estudando essas linguagens
 <div style="display:inline_block"><br/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="30%"/> 
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="30%"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="30%"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="30%"/>
-  <img align="center" alt="Bootstrap" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="30%"/>
-  <img align="center" alt="ASP.NET" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ycIMlwgwicqlO6PcFRA-Iw.png" width="30%"/>
-  <img align="center" alt="React" src="https://blog.fellyph.com.br/wp-content/uploads/2016/06/react-js.png" width="30%"/>
-  <img align="center" alt="React Native" src="https://miro.medium.com/v2/format:webp/1*AjesIvV-kkwk6LLvNf1t4A.png" width="30%"/>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="10%"/> 
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="10%"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="10%"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="10%"/>
+  <img align="center" alt="Bootstrap" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="10%"/>
+  <img align="center" alt="ASP.NET" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ycIMlwgwicqlO6PcFRA-Iw.png" width="10%"/>
+  <img align="center" alt="React" src="https://blog.fellyph.com.br/wp-content/uploads/2016/06/react-js.png" width="10%"/>
+  <img align="center" alt="React Native" src="https://miro.medium.com/v2/format:webp/1*AjesIvV-kkwk6LLvNf1t4A.png" width="10%"/>
 </div>
+
+### Meu Portfólio
+[Visite meu site](https://felipesansi.github.io/portifolio-dev-felipe/)
